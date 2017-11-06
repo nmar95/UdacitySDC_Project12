@@ -1,4 +1,5 @@
-<h2> Original README From Udacity (https://github.com/udacity/CarND-Semantic-Segmentation)</h2>
+<h2> Original README From Udacity</h2> 
+<p>(https://github.com/udacity/CarND-Semantic-Segmentation)</p>
 
 <b>Introduction</b>
 

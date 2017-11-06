@@ -4,9 +4,7 @@ In this project, you'll label the pixels of a road in images using a Fully Convo
 
 <b>Setup</b>
 
-Frameworks and Packages
-
-Make sure you have the following is installed:
+Frameworks and Packages: Make sure you have the following is installed:
 <ul>
   <li>Python 3</li>
   <li>TensorFlow</li>
@@ -40,3 +38,4 @@ Run the following command to run the project:
       <li>Newest inference images from runs folder (all images from the most recent run)</li>
     </ul>
   </li>
+ </ol>

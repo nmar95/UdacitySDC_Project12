@@ -29,12 +29,14 @@ Run the following command to run the project:
 (Note If running this in Jupyter Notebook system messages, such as those regarding test status, may appear in the terminal rather than the notebook.)
 
 <b>Submission</b>
-1. Ensure you've passed all the unit tests.
-2. Ensure you pass all points on the rubric.
-3. Submit the following in a zip file:
-<ul>
-  <li>helper.py</li>
-  <li>main.py</li>
-  <li>project_tests.py</li>
-  <li>Newest inference images from runs folder (all images from the most recent run)</li>
-</ul>
+<ol>
+  <li>Ensure you've passed all the unit tests.</li>
+  <li>Ensure you pass all points on the rubric.</li>
+  <li>Submit the following in a zip file:
+    <ul>
+      <li>helper.py</li>
+      <li>main.py</li>
+      <li>project_tests.py</li>
+      <li>Newest inference images from runs folder (all images from the most recent run)</li>
+    </ul>
+  </li>
